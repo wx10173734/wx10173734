@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wx10173734&show_icons=true&theme=swift&bg_color=120deg, fccb90, d57eeb)](https://github.com/wx10173734)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=wx10173734&show_icons=true&bg_color=135,f5f7fa,c3cfe2&title_color=fff&text_color=fff&icon_color=fff">
