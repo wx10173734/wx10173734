@@ -36,8 +36,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-![Game[^1]](github-user-contribution.svg)
-
-[^1]: _generated with [Platane/snk](https://github.com/Platane/snk)_
-
-[^2]: <a href="https://profile-summary-for-github.com/user/LinXueyuanStdio">https://profile-summary-for-github.com/user/LinXueyuanStdio</a>
+![](https://raw.githubusercontent.com/wx10173734/wx10173734/main/assets/github-contribution-grid-snake.svg)
