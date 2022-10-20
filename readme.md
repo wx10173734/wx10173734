@@ -4,17 +4,6 @@
     <img  height="150px" src="https://github-readme-stats.vercel.app/api?username=wx10173734&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
     <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wx10173734&layout=compact" /> 
 </div>
-
-
-<p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=wx10173734" />  
-    <img src="https://komarev.com/ghpvc/?username=tylt6688&label=Profile%20views&color=0e75b6&style=flat" alt="wx10173734" /> 
-</p>
-
-
-
-
-
 - 😄 一位  <u>*正在搬砖的*</u>   计算机科学与技术专业学生
 - 📫需要联系可以通过邮箱 [lzccp2000@163.com](mailto:lzccp2000@163.com) 找到我
 - 👨‍💻 对于开源项目的问题可以使用`issues`提出或者直接发送邮件💌 
